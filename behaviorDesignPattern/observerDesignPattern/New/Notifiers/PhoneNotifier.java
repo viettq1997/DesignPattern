@@ -1,8 +1,8 @@
-package behaviorDesignPattern.observerDesignPattern.New.Notifiers;
+package behaviorDesignPattern.ObserverDesignPattern.New.Notifiers;
 
-import behaviorDesignPattern.observerDesignPattern.New.VideoData;
-import behaviorDesignPattern.observerDesignPattern.New.Base.Observer;
-import behaviorDesignPattern.observerDesignPattern.New.Base.Subject;
+import behaviorDesignPattern.ObserverDesignPattern.New.VideoData;
+import behaviorDesignPattern.ObserverDesignPattern.New.Base.Observer;
+import behaviorDesignPattern.ObserverDesignPattern.New.Base.Subject;
 
 public class PhoneNotifier extends Observer {
 

@@ -1,4 +1,4 @@
-package behaviorDesignPattern.observerDesignPattern.Old;
+package behaviorDesignPattern.ObserverDesignPattern.Old;
 
 public class Program {
     public static void main(String[] args) {

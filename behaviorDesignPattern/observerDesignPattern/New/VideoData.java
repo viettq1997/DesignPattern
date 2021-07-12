@@ -1,6 +1,6 @@
-package behaviorDesignPattern.observerDesignPattern.New;
+package behaviorDesignPattern.ObserverDesignPattern.New;
 
-import behaviorDesignPattern.observerDesignPattern.New.Base.Subject;
+import behaviorDesignPattern.ObserverDesignPattern.New.Base.Subject;
 
 public class VideoData extends Subject {
     // region Private Properties

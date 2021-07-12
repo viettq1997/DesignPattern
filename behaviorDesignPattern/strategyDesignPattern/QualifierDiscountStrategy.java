@@ -1,4 +1,4 @@
-package behaviorDesignPattern.strategyDesignPattern;
+package behaviorDesignPattern.StrategyDesignPattern;
 
 public class QualifierDiscountStrategy implements IPromoteStrategy{
 

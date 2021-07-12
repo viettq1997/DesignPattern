@@ -1,4 +1,4 @@
-package behaviorDesignPattern.observerDesignPattern.Old.notifier;
+package behaviorDesignPattern.ObserverDesignPattern.Old.notifier;
 
 public class YoutubeNotifier implements INotifier {
 

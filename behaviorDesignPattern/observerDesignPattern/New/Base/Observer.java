@@ -1,4 +1,4 @@
-package behaviorDesignPattern.observerDesignPattern.New.Base;
+package behaviorDesignPattern.ObserverDesignPattern.New.Base;
 
 public abstract class Observer {
 
