@@ -1,4 +1,4 @@
-package behaviorDesignPattern.CommandDesignPattern;
+package BehaviorDesignPattern.CommandDesignPattern;
 
 public interface ICommand {
     void execute();

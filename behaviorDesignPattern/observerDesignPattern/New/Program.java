@@ -1,9 +1,9 @@
-package behaviorDesignPattern.ObserverDesignPattern.New;
+package BehaviorDesignPattern.ObserverDesignPattern.New;
 
-import behaviorDesignPattern.ObserverDesignPattern.New.Notifiers.EmailNotifier;
-import behaviorDesignPattern.ObserverDesignPattern.New.Notifiers.FacebookNotifier;
-import behaviorDesignPattern.ObserverDesignPattern.New.Notifiers.PhoneNotifier;
-import behaviorDesignPattern.ObserverDesignPattern.New.Notifiers.YoutubeNotifier;
+import BehaviorDesignPattern.ObserverDesignPattern.New.Notifiers.EmailNotifier;
+import BehaviorDesignPattern.ObserverDesignPattern.New.Notifiers.FacebookNotifier;
+import BehaviorDesignPattern.ObserverDesignPattern.New.Notifiers.PhoneNotifier;
+import BehaviorDesignPattern.ObserverDesignPattern.New.Notifiers.YoutubeNotifier;
 
 public class Program {
     public static void main(String[] args) {

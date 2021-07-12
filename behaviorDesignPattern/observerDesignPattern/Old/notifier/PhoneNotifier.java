@@ -1,4 +1,4 @@
-package behaviorDesignPattern.ObserverDesignPattern.Old.notifier;
+package BehaviorDesignPattern.ObserverDesignPattern.Old.notifier;
 
 public class PhoneNotifier implements INotifier {
 

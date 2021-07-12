@@ -1,8 +1,8 @@
-package behaviorDesignPattern.ObserverDesignPattern.New.Notifiers;
+package BehaviorDesignPattern.ObserverDesignPattern.New.Notifiers;
 
-import behaviorDesignPattern.ObserverDesignPattern.New.VideoData;
-import behaviorDesignPattern.ObserverDesignPattern.New.Base.Observer;
-import behaviorDesignPattern.ObserverDesignPattern.New.Base.Subject;
+import BehaviorDesignPattern.ObserverDesignPattern.New.VideoData;
+import BehaviorDesignPattern.ObserverDesignPattern.New.Base.Observer;
+import BehaviorDesignPattern.ObserverDesignPattern.New.Base.Subject;
 
 public class YoutubeNotifier extends Observer {
 

@@ -1,8 +1,8 @@
-package behaviorDesignPattern.ObserverDesignPattern.Old;
+package BehaviorDesignPattern.ObserverDesignPattern.Old;
 
-import behaviorDesignPattern.ObserverDesignPattern.Old.notifier.EmailNotifier;
-import behaviorDesignPattern.ObserverDesignPattern.Old.notifier.PhoneNotifier;
-import behaviorDesignPattern.ObserverDesignPattern.Old.notifier.YoutubeNotifier;
+import BehaviorDesignPattern.ObserverDesignPattern.Old.notifier.EmailNotifier;
+import BehaviorDesignPattern.ObserverDesignPattern.Old.notifier.PhoneNotifier;
+import BehaviorDesignPattern.ObserverDesignPattern.Old.notifier.YoutubeNotifier;
 
 public class VideoData {
     // region Private Properties

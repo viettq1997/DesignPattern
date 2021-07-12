@@ -1,4 +1,4 @@
-package behaviorDesignPattern.StrategyDesignPattern;
+package BehaviorDesignPattern.StrategyDesignPattern;
 
 public class EightyDiscountStrategy implements IPromoteStrategy {
 
