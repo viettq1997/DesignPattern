@@ -15,6 +15,7 @@ public class Ticket {
         return iPromoteStrategy;
     }
 
+    // setPromoteStrategy
     public void setiPromoteStrategy(IPromoteStrategy iPromoteStrategy) {
         this.iPromoteStrategy = iPromoteStrategy;
     }
